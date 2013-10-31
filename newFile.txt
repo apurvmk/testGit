@@ -1,0 +1,4 @@
+This file was created in branch
+This line was added in feature.
+More changes in feature.
+New file modified in feature again
